@@ -11,7 +11,7 @@
 | 神麟   | 1804385478     | 应天一号Python机器人     | [道锋潜鳞](https://github.com/Taishang-Penglong) | 3470584974 | [帮助](https://doc.4l2.cn/d/6nvm9486r54tr11uwqh8) |
 | 逐风   | 2730662588     |                         | 云眠                                       | 3360996909 |
 | 云绒狐尾 | 386980972     | 云绒图鉴官方机器人       | 云眠                                        | 3360996909 | [帮助](https://furbot.cn) |
-| 银     | 2651800368    |   把你想说的写在漂流瓶里吧 | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |
+| 灵/灵梦     | 2651800368    |   把你想说的写在漂流瓶里吧 | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |[帮助](https://www.furowo.xyz/docs)|
 | KaitoBot | 2513882944    |    | [海斗](https://github.com/Ishikawa-Kaito) | 435907629 | [仓库](https://github.com/Ishikawa-Kaito/KaitoBot) |
 | null     | 1182906207    |    | [nullqwertyuiop](https://github.com/nullqwertyuiop)| 1417324298 |
 | RPGMirai | 3028159740    |    | [毛球](https://github.com/LittleGreenYuan) | 173799685 | [仓库](https://github.com/LittleGreenYuan/RPGmirai) |
