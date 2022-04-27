@@ -15,6 +15,8 @@
 | 灵/灵梦     | 2651800368    |   把你想说的写在漂流瓶里吧 | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |[帮助](https://www.furowo.xyz/docs)|
 | KaitoBot | 2513882944    |    | [海斗](https://github.com/Ishikawa-Kaito) | 435907629 | [仓库](https://github.com/Ishikawa-Kaito/KaitoBot) |
 | RPGMirai | 3028159740    |    | [毛球](https://github.com/LittleGreenYuan) | 173799685 | [仓库](https://github.com/LittleGreenYuan/RPGmirai) |
+| NullPointer   | 3143098917 | 综合性bot       | [夙宸](https://github.com/SuChenawa)       | 1306542338 | [帮助](https://sg.lfmemz.ltd/) |
+
 
 
 统计可能不全，如果有遗漏还请PR，跪谢
