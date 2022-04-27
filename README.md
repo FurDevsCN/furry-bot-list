@@ -1,12 +1,12 @@
 ### Furry Bot List
 
-| 名字   | QQ号           | 简介                     | 主人                                     | 主人的QQ号 | 仓库/站点 |
+| 名字   | QQ号           | 简介                     | 开发者                                    | 开发者的QQ号 | 仓库/站点 |
 | :----- | -------------- | ------------------------ | -------------------------------------- | ---------- | -- |
 | 绒狸   | 2934535422     | “来只毛”                 | [福林](https://github.com/furleywolf)     | 2111626525 | [开源版仓库](https://github.com/furleywolf/Furbot-Mirai) \| [帮助](https://www.kancloud.cn/furleywolf/furbot/2482928) |
 | 七筒   | 3582637350/2429465624 |   | [角川烈](https://github.com/KadokawaR) & [白门](https://github.com/MarbleGateKeeper)| 2955808839 | [开源版仓库](https://github.com/KadokawaR/Chitung-public) \| [本体仓库](https://github.com/KadokawaR/LLT-Bot)|
 | 七筒 in Python |        |                          | [null](https://github.com/nullqwertyuiop)| 1417324298 | [开源版仓库](https://github.com/nullqwertyuiop/Chitung-python) |
 | 小霖念 | 2954819930      |                         | [霖念](https://github.com/Little-LinNian) | 2544704967 | [仓库](https://github.com/Little-LinNian/Aworda) \| [帮助](https://linnian.furbot.icu) |
-| ChiBot | 1654723334     | 主要为音游bot~           | nil                                       | 1240188105 |
+| ChiBot | 1654723334     | 主要为音游bot            | nil                                       | 1240188105 |
 | 洇岚   | 2811520355/1285419596 | 直播小帮手~        | [玖叁](https://github.com/colour93)       | 1285419578 | [帮助](https://yinlan.furbot.icu) |
 | 梦梦   | 2198343833     |                          | 幻梦                                     | 1374004609 |
 | 神麟   | 1804385478     | 应天一号Python机器人     | [道锋潜鳞](https://github.com/Taishang-Penglong) | 3470584974 | [帮助](https://doc.4l2.cn/d/6nvm9486r54tr11uwqh8) |
