@@ -16,6 +16,7 @@
 | KaitoBot | 2513882944    |    | [海斗](https://github.com/Ishikawa-Kaito) | 435907629 | [仓库](https://github.com/Ishikawa-Kaito/KaitoBot) |
 | RPGMirai | 3028159740    |    | [毛球](https://github.com/LittleGreenYuan) | 173799685 | [仓库](https://github.com/LittleGreenYuan/RPGmirai) |
 | NullPointer   | 3143098917 | 综合性bot       | [夙宸](https://github.com/SuChenawa)       | 1306542338 | [帮助](https://sg.lfmemz.ltd/) |
+| 狼陨   | 1142880539 | 甚么用也莫得的Bot  | [PCD-01](https://github.com/PCD-01)       | 3074109872 | [帮助](https://fallwolf.furbot.top/) |
 
 
 
