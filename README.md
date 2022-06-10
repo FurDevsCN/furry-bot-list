@@ -17,7 +17,7 @@
 | RPGMirai | 3028159740    |    | [毛球](https://github.com/LittleGreenYuan) | 173799685 | [仓库](https://github.com/LittleGreenYuan/RPGmirai) |
 | NullPointer   | *封禁中 | 综合性bot       | [夙宸](https://github.com/SuChenawa)       | 1306542338 | [帮助](https://sg.lfmemz.ltd/) |
 | 狼陨   | 1142880539 | 甚么用也莫得的Bot  | [PCD-01](https://github.com/PCD-01)       | 3074109872 | [帮助](https://fallwolf.furbot.top/) |
-| 岂几-Kai | 3323685386 | 集交易、设定分享等于一体的综合性bot私人bot | 凯叽 | 1512061202 | |
+| 岂几-Kai | 3323685386 | 集交易、设定分享等于一体的综合性私人bot | 凯叽 | 1512061202 | |
 
 
 统计可能不全，如果有遗漏还请PR，跪谢
