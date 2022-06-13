@@ -12,7 +12,7 @@
 | 神麟   | 1804385478     | 应天一号Python机器人     | [道锋潜鳞](https://github.com/Taishang-Penglong) | 3470584974 | [帮助](https://doc.4l2.cn/d/6nvm9486r54tr11uwqh8) |
 | 逐风   | 2730662588     |                         | 云眠                                       | 3360996909 |
 | 云绒狐尾 | 386980972     | 云绒图鉴官方机器人       | 云眠                                        | 3360996909 | [帮助](http://furbot.cn) |
-| 灵/灵梦     | 2651800368    |   把你想说的写在漂流瓶里吧 | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |<b>暂时停止服务</b>|
+| 灵/灵梦     | 2651800368    |   一个兽圈的综合性bot.. | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |[开源版仓库](https://github.com/yinlinghunjiang/Simple-Tranfur-Bot) \| [帮助](https://www.uwpg.xyz)|
 | KaitoBot | 2513882944    |    | [海斗](https://github.com/Ishikawa-Kaito) | 435907629 | [仓库](https://github.com/Ishikawa-Kaito/KaitoBot) |
 | RPGMirai | 3028159740    |    | [毛球](https://github.com/LittleGreenYuan) | 173799685 | [仓库](https://github.com/LittleGreenYuan/RPGmirai) |
 | NullPointer   | *封禁中 | 综合性bot       | [夙宸](https://github.com/SuChenawa)       | 1306542338 | [帮助](https://sg.lfmemz.ltd/) |
