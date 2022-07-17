@@ -18,7 +18,7 @@
 | NullPointer   | \*封禁中 | 综合性bot       | [夙宸](https://github.com/SuChenawa)       | 1306542338 | [帮助](https://sg.lfmemz.ltd/) |
 | 狼陨   | 2140057028 | 甚么用也莫得的Bot  | [PCD-01](https://github.com/PCD-01)       | 3074109872 | [帮助](https://fallwolf.furbot.top/) |
 | 岂几-Kai | 3323685386 | 集交易、设定分享等于一体的综合性私人bot | 凯叽 | 1512061202 | |
-| 阿斯奇琳 | *N/A* | 集设定分享、群员警告、在线编译等于一体的综合性私人bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/QQFurryBotPlus) \| [帮助](https://github.com/kaixinol/QQFurryBotPlus/docs) |
+| 阿斯奇琳 | 2192808879 | 集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/FurryGarbanzoBot) \| [帮助](https://github.com/kaixinol/FurryGarbanzoBot/docs) |
 
 统计可能不全，如果有遗漏还请PR，跪谢
 
