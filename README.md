@@ -19,7 +19,7 @@
 | 狼陨   | 2140057028 | 甚么用也莫得的Bot  | [PCD-01](https://github.com/PCD-01)       | 3074109872 | [帮助](https://fallwolf.furbot.top/) |
 | 岂几-Kai | 3323685386 | 集交易、设定分享等于一体的综合性私人bot | 凯叽 | 1512061202 | |
 | 阿斯奇琳 | 2192808879/2634732881 | 集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/FurryGarbanzoBot) \| [帮助](https://github.com/kaixinol/FurryGarbanzoBot/tree/main/docs) |
-| 绒狸 | 3409686310 | 继承绒狸功能，增加“查询”、“对对联”等功能 | [Shiqi](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3056256780) | 3056256780 |
+| 绒狸 | 3409686310 | 继承绒狸功能，增加“查询”、“对对联”等功能 | Shiqi | 3056256780 |
 
 统计可能不全，如果有遗漏还请PR，跪谢
 
