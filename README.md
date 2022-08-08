@@ -9,7 +9,7 @@
 | ChiBot | 1654723334     | 主要为音游bot            | nil                                       | 1240188105 |
 | 洇岚   | 2811520355/1285419596 | 直播小帮手~        | [玖叁](https://github.com/colour93)       | 1285419578 | [帮助](https://yinlan.furbot.icu) |
 | 梦梦   | 2198343833     |                          | 幻梦                                     | 1374004609 |
-| 神麟   | 1804385478     | 应天一号Python机器人     | [道锋潜鳞](https://github.com/Taishang-Penglong) | 3470584974 | [帮助](https://doc.4l2.cn/d/6nvm9486r54tr11uwqh8) |
+| 神麟   | 1804385478     | 综合网络bot     | [道锋潜鳞](https://github.com/Taishang-Penglong) | 2970290021 | [帮助](https://daofengql.gitee.io/godloongbot/) |
 | 逐风   | 2730662588     |                         | 云眠                                       | 3360996909 |
 | 云绒狐尾 | 386980972     | 云绒图鉴官方机器人       | 云眠                                        | 3360996909 | [帮助](http://furbot.cn) |
 | 灵/灵梦     | 2651800368    |   一个兽圈的综合性bot.. | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |[开源版仓库](https://github.com/yinlinghunjiang/Simple-Tranfur-Bot) \| [帮助](https://www.uwpg.xyz/docs)|
