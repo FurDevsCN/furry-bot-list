@@ -1,0 +1,178 @@
+[
+    {
+        "id": -1,
+        "name": "官方机器人",
+        "repo": [],
+        "description": "来自腾讯官方的机器人"
+    },
+    {
+        "id": 0,
+        "name": "绒狸",
+        "repo": [
+            "furleywolf/Furbot-Mirai"
+        ],
+        "description": "“来只毛”",
+        "author": [
+            "福林"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "七筒",
+        "repo": [
+            "KadokawaR/Chitung-public",
+            "KadokawaR/LLT-Bot"
+        ],
+        "description": "",
+        "author": [
+            "角川烈"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "七筒 in Python",
+        "repo": [
+            "nullqwertyuiop/Chitung-python"
+        ],
+        "description": "<! Discontinued !>",
+        "author": [
+            "null"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "小霖念",
+        "repo": [
+            "Little-LinNian/Aworda"
+        ],
+        "description": "",
+        "author": [
+            "霖念"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ChiBot",
+        "repo": [],
+        "description": "主要为音游bot",
+        "author": [
+            "nil"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "洇岚",
+        "repo": [],
+        "description": "直播小帮手~",
+        "author": [
+            "玖叁"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "梦梦",
+        "repo": [],
+        "description": "",
+        "author": [
+            "幻梦"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "神麟",
+        "repo": [],
+        "description": "综合网络bot",
+        "author": [
+            "道锋潜鳞"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "逐风",
+        "repo": [],
+        "description": "",
+        "author": [
+            "云眠"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "云绒狐尾",
+        "repo": [],
+        "description": "云绒图鉴官方机器人",
+        "author": [
+            "云眠"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "灵/灵梦",
+        "repo": [
+            "yinlinghunjiang/Simple-Tranfur-Bot"
+        ],
+        "description": "一个兽圈的综合性bot..",
+        "author": [
+            "银灵魂酱"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "KaitoBot",
+        "repo": [
+            "Ishikawa-Kaito/KaitoBot"
+        ],
+        "description": "",
+        "author": [
+            "海斗"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "RPGMirai",
+        "repo": [
+            "LittleGreenYuan/RPGmirai"
+        ],
+        "description": "",
+        "author": [
+            "毛球"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "NullPointer",
+        "repo": [],
+        "description": "综合性bot",
+        "author": [
+            "夙宸"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "狼陨",
+        "repo": [],
+        "description": "甚么用也莫得的Bot",
+        "author": [
+            "PCD-01"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "岂几-Kai",
+        "repo": [],
+        "description": "集交易、设定分享等于一体的综合性私人bot",
+        "author": [
+            "凯叽"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "阿斯奇琳",
+        "repo": [
+            "kaixinol/FurryGarbanzoBot"
+        ],
+        "description": "集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot",
+        "author": [
+            "kaesinol"
+        ]
+    }
+]
