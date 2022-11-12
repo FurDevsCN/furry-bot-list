@@ -12,7 +12,7 @@
 | 神麟   | 1804385478     | 综合网络bot     | [道锋潜鳞](https://github.com/Taishang-Penglong) | 2970290021 | [帮助](https://daofengql.gitee.io/godloongbot/) |
 | 逐风   | 2730662588     |                         | 云眠                                       | 3360996909 |
 | 云绒狐尾 | 386980972     | 云绒图鉴官方机器人       | 云眠                                        | 3360996909 | [帮助](http://furbot.cn) |
-| 灵/灵梦     | 2651800368    |   一个兽圈的综合性bot.. | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |[开源版仓库](https://github.com/yinlinghunjiang/Simple-Tranfur-Bot) \| [帮助](https://www.uwpg.xyz/docs)|
+| 灵/灵梦     |     |   <! 暂停服务 !> | [银灵魂酱](https://github.com/yinlinghunjiang)| 1581647952 |[开源版仓库](https://github.com/yinlinghunjiang/Simple-Tranfur-Bot) \| [帮助](https://www.uwpg.xyz/docs)|
 | KaitoBot | 2513882944    |    | [海斗](https://github.com/Ishikawa-Kaito) | 435907629 | [仓库](https://github.com/Ishikawa-Kaito/KaitoBot) |
 | RPGMirai | 3028159740    |    | [毛球](https://github.com/LittleGreenYuan) | 173799685 | [仓库](https://github.com/LittleGreenYuan/RPGmirai) |
 | NullPointer   | \*封禁中 | 综合性bot       | [夙宸](https://github.com/SuChenawa)       | 1306542338 | [帮助](https://sg.lfmemz.ltd/) |
