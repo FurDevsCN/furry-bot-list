@@ -19,7 +19,7 @@
 | 狼陨   | 2140057028 | 甚么用也莫得的Bot  | [PCD-01](https://github.com/PCD-01)       | 3074109872 | [帮助](https://fallwolf.furbot.top/) |
 | 岂几-Kai | 3323685386 | 集交易、设定分享等于一体的综合性私人bot | 凯叽 | 1512061202 | |
 | 阿斯奇琳 | 2192808879/2634732881 | 集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/FurryGarbanzoBot) \| [帮助](https://github.com/kaixinol/FurryGarbanzoBot/tree/main/docs) |
-| DessertRobot-407 | 3599155248 | 仅向兽圈服务的综合性Bot | [布丁](https://github.com/BuDingOwO) | 3515238310 | [开源版仓库](https://github.com/BuDingOwO/DessertRobot-407) [帮助文档](https://www.forcecat.cn/407.docs) [备用文档](https://home.forcecat.cn/) |
+| Dr407 | 3599155248 | 娱乐向的FurBot | [布丁](https://github.com/BuDingOwO) | 3515238310 | [开源版仓库](https://github.com/ForcecatDevs/Dr407) \ [帮助文档](https://docs.forcecat.cn) |
 
 统计可能不全，如果有遗漏还请PR，跪谢
 
