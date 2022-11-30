@@ -30,7 +30,7 @@
     },
     {
         "id": 2,
-        "name": "七筒 in Python",
+        "name": "七筒Py",
         "repo": [
             "nullqwertyuiop/Chitung-python"
         ],
@@ -173,6 +173,28 @@
         "description": "集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot",
         "author": [
             "kaesinol"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Null",
+        "repo": [
+            "ProjectNu11/Null"
+        ],
+        "description": "模块化机器人",
+        "author": [
+            "nullqwertyuiop"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Eric",
+        "repo": [
+            "nullqwertyuiop/Eric"
+        ],
+        "description": "更优的模块化机器人",
+        "author": [
+            "nullqwertyuiop"
         ]
     }
 ]
