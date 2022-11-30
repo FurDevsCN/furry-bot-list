@@ -30,7 +30,7 @@
     },
     {
         "id": 2,
-        "name": "七筒 in Python",
+        "name": "七筒Py",
         "repo": [
             "nullqwertyuiop/Chitung-python"
         ],
@@ -185,6 +185,28 @@
         "author": [
             "BuDingOwO",
             "ForcecatDevs"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Null",
+        "repo": [
+            "ProjectNu11/Null"
+        ],
+        "description": "模块化机器人",
+        "author": [
+            "nullqwertyuiop"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Eric",
+        "repo": [
+            "nullqwertyuiop/Eric"
+        ],
+        "description": "更优的模块化机器人",
+        "author": [
+            "nullqwertyuiop"
         ]
     }
 ]
