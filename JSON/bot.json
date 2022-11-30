@@ -570,7 +570,8 @@
         "description": "娱乐向的FurBot",
         "site": "dev.forcecat.cn",
         "maintainer": [
-            "BuDingOwO","ForcecatDevs"
+            "BuDingOwO",
+            "ForcecatDevs"
         ],
         "program": [
             17
