@@ -177,6 +177,18 @@
     },
     {
         "id": 17,
+        "name": "Dr407",
+        "repo": [
+            "ForcecatDevs/Dr407"
+        ],
+        "description": "娱乐向的FurBot",
+        "author": [
+            "BuDingOwO",
+            "ForcecatDevs"
+        ]
+    },
+    {
+        "id": 18,
         "name": "Null",
         "repo": [
             "ProjectNu11/Null"
@@ -187,7 +199,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Eric",
         "repo": [
             "nullqwertyuiop/Eric"

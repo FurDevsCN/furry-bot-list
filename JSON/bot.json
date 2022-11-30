@@ -562,5 +562,19 @@
         "program": [
             16
         ]
+    },
+    {
+        "id": 3599155248,
+        "name": "Dr407",
+        "num": 1,
+        "description": "娱乐向的FurBot",
+        "site": "dev.forcecat.cn",
+        "maintainer": [
+            "BuDingOwO",
+            "ForcecatDevs"
+        ],
+        "program": [
+            17
+        ]
     }
 ]
