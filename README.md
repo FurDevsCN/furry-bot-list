@@ -24,7 +24,6 @@
 | Eric |  | 更优的模块化机器人 | [nullqwertyuiop](https://github.com/nullqwertyuiop) |  | [本体仓库](https://github.com/nullqwertyuiop/Eric) \| [插件仓库](https://github.com/search?q=EricPlugins) |
 | 阿尔多泰 | 3056337852/2634732881 | Garbanzo的继承者，功能上兽文化浓郁的bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/AldotaiBot) \| [帮助](https://reset.forcecat.cn/) |
 | Husky | 1483661722 |  | 二哈 | 3206186496 |  |
-<!--方便自动化程序处理的分隔符-->
 
 统计可能不全，如果有遗漏还请PR，跪谢
 
