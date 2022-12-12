@@ -18,10 +18,12 @@
 | NullPointer   | \*封禁中 | 综合性bot       | [夙宸](https://github.com/SuChenawa)       | 1306542338 | [帮助](https://sg.lfmemz.ltd/) |
 | 狼陨   | 2140057028 | 甚么用也莫得的Bot  | [PCD-01](https://github.com/PCD-01)       | 3074109872 | [帮助](https://fallwolf.furbot.top/) |
 | 岂几-Kai | 3323685386 | 集交易、设定分享等于一体的综合性私人bot | 凯叽 | 1512061202 | |
-| 阿斯奇琳 | 2192808879/2634732881 | 集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/FurryGarbanzoBot) \| [帮助](https://github.com/kaixinol/FurryGarbanzoBot/tree/main/docs) |
+| Garbanzo | 2192808879/2634732881 | 集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/FurryGarbanzoBot) \| [帮助](https://github.com/kaixinol/FurryGarbanzoBot/tree/main/docs) |
 | Dr407 | 3599155248 | 娱乐向的FurBot | [布丁](https://github.com/BuDingOwO) | 3515238310 |  [开源版仓库](https://github.com/ForcecatDevs/Dr407) \ [帮助文档](https://docs.forcecat.cn) |
 | Null | <! 已停止提供服务 !> | 模块化机器人 | [nullqwertyuiop](https://github.com/nullqwertyuiop) |  | [本体仓库](https://github.com/ProjectNu11/Null) \| [插件仓库](https://github.com/ProjectNu11/NullPlugins) |
 | Eric |  | 更优的模块化机器人 | [nullqwertyuiop](https://github.com/nullqwertyuiop) |  | [本体仓库](https://github.com/nullqwertyuiop/Eric) \| [插件仓库](https://github.com/search?q=EricPlugins) |
+| 阿尔多泰 | 3056337852/2634732881 | Garbanzo的继承者，功能上兽文化浓郁的bot | [kaesinol](https://github.com/kaixinol) | 3607922630 | [开源版仓库](https://github.com/kaixinol/AldotaiBot) \| [帮助](https://reset.forcecat.cn/) |
+| Husky | 1483661722 |  | 二哈 | 3206186496 |  |
 
 统计可能不全，如果有遗漏还请PR，跪谢
 

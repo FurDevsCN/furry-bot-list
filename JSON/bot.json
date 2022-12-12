@@ -539,7 +539,7 @@
     },
     {
         "id": 2192808879,
-        "name": "阿斯奇琳",
+        "name": "Garbanzo",
         "num": 1,
         "description": "集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot",
         "site": "",
@@ -552,7 +552,7 @@
     },
     {
         "id": 2634732881,
-        "name": "阿斯奇琳",
+        "name": "Garbanzo",
         "num": 2,
         "description": "集设定分享、群员警告、在线编译及云黑于一体的综合性私人bot",
         "site": "",
@@ -575,6 +575,30 @@
         ],
         "program": [
             17
+        ]
+    },
+    {
+        "id": 3056337852,
+        "name": "阿尔多泰",
+        "num": 1,
+        "description": "Garbanzo的继承者，功能上兽文化浓郁的bot",
+        "site": "reset.forcecat.cn",
+        "maintainer": [
+            "kaesinol"
+        ],
+        "program": [
+            20
+        ]
+    },
+    {
+        "id": 1483661722,
+        "name": "Husky",
+        "num": 1,
+        "description": "",
+        "site": "",
+        "maintainer": [],
+        "program": [
+            21
         ]
     }
 ]

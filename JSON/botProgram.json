@@ -166,7 +166,7 @@
     },
     {
         "id": 16,
-        "name": "阿斯奇琳",
+        "name": "Garbanzo",
         "repo": [
             "kaixinol/FurryGarbanzoBot"
         ],
@@ -208,5 +208,23 @@
         "author": [
             "nullqwertyuiop"
         ]
+    },
+    {
+        "id": 20,
+        "name": "阿尔多泰",
+        "repo": [
+            "kaixinol/AldotaiBot"
+        ],
+        "description": "Garbanzo的继承者，功能上兽文化浓郁的bot",
+        "author": [
+            "kaesinol"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Husky",
+        "repo": [],
+        "description": "",
+        "author": []
     }
 ]
