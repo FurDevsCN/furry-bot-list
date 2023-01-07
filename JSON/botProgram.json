@@ -3,7 +3,8 @@
         "id": -1,
         "name": "官方机器人",
         "repo": [],
-        "description": "来自腾讯官方的机器人"
+        "description": "来自腾讯官方的机器人",
+        "author": []
     },
     {
         "id": 0,
