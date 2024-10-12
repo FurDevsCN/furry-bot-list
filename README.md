@@ -7,7 +7,7 @@
 | 七筒Py |        | <! Discontinued !>  | [nullqwertyuiop](https://github.com/nullqwertyuiop)|  | [开源版仓库](https://github.com/nullqwertyuiop/Chitung-python) |
 | 小霖念 | 2954819930      |                         | [霖念](https://github.com/Little-LinNian) | 2544704967 | [仓库](https://github.com/Little-LinNian/Aworda) \| [帮助](https://linnian.furbot.icu) |
 | ChiBot | 1654723334     | 主要为音游bot            | nil                                       | 1240188105 |
-| 洇岚   | 2811520355/1285419596 | 直播小帮手~        | [玖叁](https://github.com/colour93)       | 1285419578 | [帮助](https://yinlan.furbot.icu) |
+| 洇岚   | 2811520355/1285419596 | <! 已停止提供服务 !>  | [玖叁](https://github.com/colour93)       | 1285419578 | [帮助](https://yinlan.furbot.icu) |
 | 梦梦   | 2198343833     |                          | 幻梦                                     | 1374004609 |
 | 神麟   | 1804385478     | 综合网络bot     | [道锋潜鳞](https://github.com/Taishang-Penglong) | 2970290021 | [帮助](https://daofengql.gitee.io/godloongbot/) |
 | 逐风   | 2730662588     |                         | 云眠                                       | 3360996909 |
